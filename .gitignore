@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build output
+frontend/dist/
+backend/node_modules/
+backend/dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Environment variables
+*.env
+backend/.env
+
+# IDE files
+.vscode/
+.idea/
+.vcs.xml
