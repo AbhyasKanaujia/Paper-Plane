@@ -1,5 +1,7 @@
 # Paper Plane
 
+Use now: https://paper-plane-gnbo.onrender.com
+
 * Demand exists; UPSC/SSC/Banks/State PSC is a huge, evergreen, money-paying market.
 * MCQ practice with adaptive difficulty is a proven need.
 * Rating system is a good differentiator; feels “scientific” and addictive like chess puzzles.
